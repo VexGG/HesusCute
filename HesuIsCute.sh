@@ -14,5 +14,6 @@ printf $blue" ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄�
 
 printf "How Cute Is Hesu!. Type Anything To See How Cute Hesu Is."
 read hesucute
- echo "Hesu Is 100000000000% Cute"
+
+echo "Hesu Is 100000000000% Cute"
                                                                                                      
